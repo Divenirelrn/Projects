@@ -1,0 +1,29 @@
+Config Version: v1.0
+
+y15:
+  name: y15
+  version: 0.1
+  file_name: y15.mnn
+  model_type: MNN
+  infer_engine: MNN
+  infer_deivce: CPU
+  infer_backend: CPU
+  input_data_order: NHWC
+  input_data_type: float32
+  input_size: [1,3,112,112]
+  output_size: [1,512]
+  norm_vals: [ 127.5 , 127.5, 127.5]
+  mean_vals: [ 127.5 , 127.5, 127.5]
+
+y15:
+  name: y15
+  version: 0.1
+  file_name: y15.onnx
+  model_type: ONNX
+  infer_engine: OCV
+  infer_deivce: CPU
+  infer_backend: CPU
+  input_size: [1,3,112,112]
+  output_size: [1,512]
+  norm_vals: [ 127.5 , 127.5, 127.5]
+  mean_vals: [ 127.5 , 127.5, 127.5]

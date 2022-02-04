@@ -1,0 +1,16 @@
+Config Version: v1.0
+
+models_reference: models.yaml
+
+feature_extractor:
+  model: y15
+  dims: 512
+
+liveness_rgb:
+  model: sfas_27
+  model_aux: sfas_40
+  threshold: 0.92
+
+liveness_ir:
+  model: lmk_fas
+  threshold: 0.92

@@ -1,0 +1,10 @@
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/edit_cache.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/test_feature_extractor_1_5w.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/rebuild_cache.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/track_tool.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/tracking_demo_multiprocess.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/lmktrack.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/infer_test.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/face_test.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/tracking_demo.dir
+/app_sdk/nazhi_v5/nz_face_dev/build/CMakeFiles/c_api_demo.dir
